@@ -21,7 +21,7 @@ A fun and interactive memory game built using **HTML**, **CSS**, and **JavaScrip
 - **JavaScript**: Logic for game sequence, user input, and level progression.
 
 ## Game Preview 📷
-![Game Screenshot](link-to-screenshot)
+![Game Screenshot](img.png)
 
 ## Installation 🚀
 1. Clone the repository:
